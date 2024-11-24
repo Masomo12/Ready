@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Shield, Bell, MapPin, Phone, FileText, Book, Users, AlertTriangle } from 'lucide-react';
 import SafetyMap from '../components/SafetyMap';
 import EmergencyContacts from '../components/EmergencyContacts';
-import IncidentReport from '../components/IncidentReport';
+//import IncidentReport from '../components/IncidentReport';
 import ResourceDirectory from '../components/ResourceDirectory';
 import SafetyEducation from '../components/SafetyEducation';
 import CommunitySupport from '../components/CommunitySupport';
