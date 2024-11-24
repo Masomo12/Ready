@@ -3,9 +3,9 @@ import { Shield, Bell, MapPin, Phone, FileText, Book, Users, AlertTriangle } fro
 import SafetyMap from '../components/SafetyMap';
 import EmergencyContacts from '../components/EmergencyContacts';
 //import IncidentReport from '../components/IncidentReport';
-import ResourceDirectory from '../components/ResourceDirectory';
-import SafetyEducation from '../components/SafetyEducation';
-import CommunitySupport from '../components/CommunitySupport';
+//import ResourceDirectory from '../components/ResourceDirectory';
+//import SafetyEducation from '../components/SafetyEducation';
+//import CommunitySupport from '../components/CommunitySupport';
 
 const FemicidePrevention = () => {
   const [showEmergencyContacts, setShowEmergencyContacts] = useState(false);
